@@ -18,7 +18,8 @@ This repo hold the `Dockerfile`s of our [Coder](https://coder.com/) images that 
 
 ### Python
 
-- []()
+- [3.12.1](/python/3.12.1/Dockerfile)
+- [3.12.1](/python/3.12.1/Dockerfile)
 
 ## Archiving Issues
 
