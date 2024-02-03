@@ -12,10 +12,13 @@ This repo hold the `Dockerfile`s of our [Coder](https://coder.com/) images that 
 
 ### Node
 
-- [16.20.2](/node/16.20.2/Dockerfile)
 - [18.19.0](/node/18.19.0/Dockerfile)
 - [20.11.0](/node/20.11.0/Dockerfile)
 - [21.6.1](/node/21.6.1/Dockerfile)
+
+### Python
+
+- []()
 
 ## Archiving Issues
 
@@ -26,8 +29,8 @@ clear signs that the CLI is dead.
 ### Possible Causes
 
 - VM we archived the `.tar` file is not stable
-- The VM has [win-rar](https://www.win-rar.com/) installed while the PC
-in the airtight environment has [7zip](https://www.7-zip.org/) installed
+- The VM has an old [win-rar](https://www.win-rar.com/) version installed while the PC
+in the airtight environment has the latest version of [7zip](https://www.7-zip.org/)
 
 ### Solution
 
