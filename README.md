@@ -2,6 +2,21 @@
 
 This repo hold the `Dockerfile`s of our [Coder](https://coder.com/) images that will be used in an airtight environment.
 
+## Images
+
+### Golang
+
+- [1.19.13](/golang/1.19.13/Dockerfile)
+- [1.20.13](/golang/1.20.13/Dockerfile)
+- [1.21.6](/golang/1.21.6/Dockerfile)
+
+### Node
+
+- [16.20.2](/node/16.20.2/Dockerfile)
+- [18.19.0](/node/18.19.0/Dockerfile)
+- [20.11.0](/node/20.11.0/Dockerfile)
+- [21.6.1](/node/21.6.1/Dockerfile)
+
 ## Archiving Issues
 
 An issue ocurred when the first image arrived to the airtight environment.
@@ -10,8 +25,7 @@ clear signs that the CLI is dead.
 
 ### Possible Causes
 
-- In my opinion it happened as the VM we archived the `.tar` files is not
-stable and was making archiving problems
+- VM we archived the `.tar` file is not stable
 - The VM has [win-rar](https://www.win-rar.com/) installed while the PC
 in the airtight environment has [7zip](https://www.7-zip.org/) installed
 
