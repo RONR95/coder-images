@@ -23,6 +23,12 @@ This repo hold the `Dockerfile`s of our [Coder](https://coder.com/) images that 
 - [3.11.7](/python/3.11.7/Dockerfile)
 - [3.12.1](/python/3.12.1/Dockerfile)
 
+### Dotnet
+
+- [6.0.418](/dotnet/6.0.418/Dockerfile)
+- [7.0.405](/dotnet/7.0.405/Dockerfile)
+- [8.0.101](/dotnet/8.0.101/Dockerfile)
+
 ## Archiving Issues
 
 An issue ocurred when the first image arrived to the airtight environment.
