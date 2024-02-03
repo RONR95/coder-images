@@ -1,10 +1,10 @@
 # Coder Images
 
-This repo hold the `Dockerfile`s of our `Coder` images that will be used in an airtight environment.
+This repo hold the `Dockerfile`s of our [Coder](https://coder.com/) images that will be used in an airtight environment.
 
 ## Archiving Issues
 
-An issue occured when the first image arrived to the airtight environment.
+An issue ocurred when the first image arrived to the airtight environment.
 The [golang](https://go.dev/) executables were broken, printing a memory map and showing
 clear signs that the CLI is dead.
 
