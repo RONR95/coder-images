@@ -9,6 +9,7 @@ This repo hold the `Dockerfile`s of our [Coder](https://coder.com/) images that 
 - [1.19.13](/golang/1.19.13/Dockerfile)
 - [1.20.13](/golang/1.20.13/Dockerfile)
 - [1.21.6](/golang/1.21.6/Dockerfile)
+- [1.22.5](/golang/1.22.5/Dockerfile)
 
 ### Node
 
